@@ -37,3 +37,5 @@ let counter = makeCounter();
 counter();
 counter();
 counter();
+
+console.log("Program completed. Exiting...");
